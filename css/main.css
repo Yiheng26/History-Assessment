@@ -89,7 +89,7 @@ textarea {
 html {
   color: #99ffcc;
   background: #565656;
-  font-family: "JetBrains Mono", courier, monospace;
+  font-family: "JetBrains Mono", Consolas, courier, monospace;
 }
 
 h1 {
